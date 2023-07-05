@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Batuhan Demirci
-- 👀 I’m interested in machine learning and quantitative finance.
 - 🌱 I’m currently learning statistics, linear algebra, machine learning, python, financial derivatives. 
 
 <!---
